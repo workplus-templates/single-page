@@ -1,0 +1,6 @@
+{
+    "name": "single-page",
+    "description": "A simple web page project",
+    "bash": ["yarn || npm install", "npm run dev"],
+    "readme": "https://github.com/workplus-templates/single-page#readme"
+}
