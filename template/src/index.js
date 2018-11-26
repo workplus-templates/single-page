@@ -2,7 +2,7 @@ import '@/assets/styles';
 
 import $ from 'zepto';
 import McxDialog from "mcx-dialog-mobile";
-import FastClick from 'fastclick';
+import FastClick from '@workplus/fastclick';
 
 import { isWorkPlus } from './utils/tools';
 
