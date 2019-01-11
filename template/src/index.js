@@ -13,7 +13,7 @@ const App = {
         this.init();
       }, false);
     } else {
-      McxDialog.toast('请在iWork中打开页面');
+      McxDialog.toast('请在WorkPlus中打开页面');
       this.init();
     }
   },
